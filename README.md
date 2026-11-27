@@ -9,6 +9,43 @@ VFloors360-Client provides users with an intuitive and interactive way to visual
 
 ---
 
+## 📸 Screenshots
+
+Screens from a local run against [VFloors360-Server](https://github.com/khalid-syfullah/VFloors360-Server) with sample tiles (generated textures) and the 3D scenes in this repo.
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/03-hall-360-view.png" width="420" alt="3D dining hall"><br>
+      <b>Dining hall in 3D</b><br><sub>Calacatta Gold marble on the floor</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/04-hall-tile-catalog.png" width="420" alt="Flooring panel with tile swatches"><br>
+      <b>Tile catalog</b><br><sub>Pick a tile and the floor changes</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/05-room-360-view.png" width="420" alt="3D living room"><br>
+      <b>Living room</b><br><sub>Natural oak planks</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/06-room-without-furniture.png" width="420" alt="Room without furniture"><br>
+      <b>Without furniture</b><br><sub>See the whole floor in terrazzo</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/02-dashboard.png" width="420" alt="Client dashboard"><br>
+      <b>Dashboard</b><br><sub>Tile and user counts, scene shortcuts</sub>
+    </td>
+    <td align="center" valign="top">
+      <img src="docs/screenshots/01-login.png" width="420" alt="Client login page"><br>
+      <b>Sign in</b><br><sub>Client login</sub>
+    </td>
+  </tr>
+</table>
+
 ## 📁 Project Structure
 
 ```
